@@ -14,7 +14,7 @@
 	    $('#about').maxBox({maxLength : 200});
 	});
 
-*With options*
+*With options:*
 
 	$(function() {
 	    $('#about').maxBox({maxLength : 200, cssClass : 'foo', displayText : 'Characters Remaining:'});
